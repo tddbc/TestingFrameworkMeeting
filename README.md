@@ -24,7 +24,22 @@
 
 ## 暫定タイムテーブル
 
-TBD
+時間         | 内容                     | 発表者 |
+-------------|-------------------------|--------|
+10:00-10:30 | 受付開始                 |        |
+10:30-10:40 | オープニング/会場説明     |        |
+10:40- | simplify, amplify       | [twada](https://github.com/twada) さん |
+-  | 質問、議論タイム          |        |
+- | Go と テスト             | [tenntenn](https://github.com/tenntenn) さん |
+- | 質問、議論タイム          |        |
+- | lint                    | [Kuniwak](https://github.com/Kuniwak) さん |
+- | 質問、議論タイム          |        |
+- | QuickCheck               | [pocketberserker](https://github.com/pocketberserker) |
+- | 質問、議論タイム          |        |
+- | Serverspec               | [mizzy](https://github.com/mizzy) さん |
+- | 質問、議論タイム          |        |
+- | 参加者から提案された議題   | 座談会? |
+18:30-21:00  | 懇親会                   |        |
 
 ## 質問・議論タイムのお題
 
@@ -38,5 +53,11 @@ TBD
 
 ## 参加登録方法
 
-TBD
+position-papers/template.md を自身のGitHubアカウント名にrenameし、中身を記述してから本リポジトリにpull requestをだしてください。
+pull requestがマージされたら参加登録完了となります。
+
+## キャンセル方法
+
+自身のポジションペーパーを削除、もしくはissueにキャンセルしたい旨を登録してください。
+マージ、もしくはissueが閉じられればキャンセル完了です。
 
