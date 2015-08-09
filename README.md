@@ -22,6 +22,10 @@
 
 東京都渋谷区東1-2-20 住友不動産渋谷ファーストタワー7F
 
+## Twitter ハッシュタグ
+
+[#TestingFrameworkMeeting](https://twitter.com/search?q=%23TestingFramworkMeeting)
+
 ## 暫定タイムテーブル
 
 時間         | 内容                     | 発表者 |
