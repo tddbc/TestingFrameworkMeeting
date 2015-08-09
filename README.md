@@ -30,6 +30,7 @@
 10:30-10:40 | オープニング/会場説明     |        |
 10:40- | simplify, amplify       | [twada](https://github.com/twada) さん |
 -  | 質問、議論タイム          |        |
+- | お昼ご飯 |        |
 - | Go と テスト             | [tenntenn](https://github.com/tenntenn) さん |
 - | 質問、議論タイム          |        |
 - | lint                    | [Kuniwak](https://github.com/Kuniwak) さん |
@@ -57,14 +58,15 @@
 ## 懇親会
 
 会場でビアバッシュを行います。
+参加費は2000円(開催当日支払い)です。
 
 ## 参加登録方法
 
-position-papers/template.md を自身のGitHubアカウント名にrenameし、中身を記述してから本リポジトリにpull requestをだしてください。
+position-papers/template.md をコピーして自身のGitHubアカウント名にrenameし、中身を記述してから本リポジトリにpull requestをだしてください。
 pull requestがマージされたら参加登録完了となります。
 
 ## キャンセル方法
 
-自身のポジションペーパーを削除、もしくはissueにキャンセルしたい旨を登録してください。
-マージ、もしくはissueが閉じられればキャンセル完了です。
+自身のポジションペーパーを削除するPull Requestをだす、もしくはキャンセルしたい旨をissueに登録してください。
+運営側がマージ、もしくは作業を行いissueが閉じられたらキャンセル完了です。
 
