@@ -24,6 +24,11 @@
 
 ## このイベントで議論したいお題(optional)
 
+* テストケースやアサーションの合成について考えてみたい
+    * 個人的(?)に https://github.com/persimmon-projects/Persimmon で実装検証は進めてみている
+* soft assertionについてどう思うか
+    * 参考 http://joel-costigliola.github.io/assertj/assertj-core-features-highlight.html
+
 ## 懇親会への参加を希望するか(参加費2000円)
 
 * 希望する
