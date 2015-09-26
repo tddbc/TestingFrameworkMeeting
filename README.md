@@ -24,7 +24,7 @@
 
 ## Twitter ハッシュタグ
 
-[#TestingFrameworkMeeting](https://twitter.com/search?q=%23TestingFramworkMeeting)
+[#TestingFrameworkMeeting](https://twitter.com/search?q=%23TestingFrameworkMeeting)
 
 ## 暫定タイムテーブル
 
